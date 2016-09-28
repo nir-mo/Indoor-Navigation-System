@@ -8,12 +8,12 @@ This application allows you to pinpoint locations based on the WiFi fingerprint.
 All the locations are shared with everyone, and everyone can navigate according to the application heuristics.
 
 ## What can you find here?
-You can find under **source_code** the application's source code (Android Studio project). 
-In the **root** directory you can find full documentation includes:
-	o Team memebers
-	o Google play (and git) links
-	o Application documentation
-	o Project presentation
-	o Personas, usecases & flows documentation 
+* You can find under **source_code** the application's source code (Android Studio project). 
+* In the **root** directory you can find full documentation includes:
+	* Team memebers
+	* Google play (and git) links
+	* Application documentation
+	* Project presentation
+	* Personas, usecases & flows documentation 
 
 **Contants: nir.moshe.nm@gmail.com**
