@@ -7,7 +7,7 @@ This is the final project in course *"67625 - POST PC COMPUTING: HUMAN-CENTRIC M
 This application allows you to pinpoint locations based on the WiFi fingerprint.
 All the locations are shared with everyone, and everyone can navigate according to the application heuristics.
 
-
+## What can you find here?
 	o You can find under **source_code** the application's source code (Android Studio project). 
 	o In the **root** directory you can find full documentation includes:
 		o Team memebers
