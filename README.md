@@ -16,4 +16,4 @@ All the locations are shared with everyone, and everyone can navigate according 
 	* Project presentation
 	* Personas, usecases & flows documentation 
 
-**Contants: nir.moshe.nm@gmail.com**
+**Contact: nir.moshe.nm@gmail.com**
